@@ -77,7 +77,12 @@ if __name__ == "__main__":
         codepath = "C:\\Users\\91892\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"   
         os.startfile(codepath) 
 
+      elif "rasbhari" in query:
+          webbrowser.open("https://www.youtube.com/channel/UCNSdjX4ry9fICqeObdZPAZQ/videos")
+
       elif "quit" in query:
            exit()
 
 
+
+           
