@@ -1,2 +1,2 @@
 # jarvis-python
-command taker with the help of  speech recognition .
+It is a command taker with the help of speech recognition .
